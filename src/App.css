@@ -1,0 +1,20 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  background-color: #646cff;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #535bf2;
+}
